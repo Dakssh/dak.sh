@@ -3,7 +3,7 @@
   <h2>About, Me.</h2>
   <div class="v2">
     <p>
-      Hello There, I'm Daksh. A 16 (as of 13th July 2017) Year Old, who loves to program. I actually didn't know what to do since I was a kid and I did never match-up with people who were nearby. I mean People always were calling me outside to play with them, I usually didn't go with them and When you stop ignoring people, They start bullying you and I was bullied my entire life.
+      Hello There, I'm Daksh. A 16 (as of 13th July 2017) Year Old, who loves to program. I actually didn't know what to do since I was a kid and I did never match-up with people who were nearby. I mean People always were calling me outside to play with them, I usually didn't go with them and when you start ignoring people, they start bullying you and I was bullied my entire life.
     </p>
     <p>
       My Dad was always a great guy, he always was supportive to me and I got my first computer because of him at a really young age, and when you get something new you get fairly excited and that excitement doesn't stay long but for me that wasn't the case, to this day I love computers and I get excited when I see computers lying around my room.
